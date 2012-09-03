@@ -1,0 +1,14 @@
+Source: erlang-syslog
+Section: unknown
+Priority: extra
+Maintainer: Dmitriy Budashny <dmitriy.budashny@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), erlang-base
+Standards-Version: 3.9.2
+Homepage: https://github.com/Vagabond/erlang-syslog
+#Vcs-Git: git://git.debian.org/collab-maint/erlang-syslog.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/erlang-syslog.git;a=summary
+
+Package: erlang-syslog
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Erlang port driver for interacting with syslog via syslog(3)

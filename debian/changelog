@@ -1,0 +1,17 @@
+erlang-syslog (20120903-1) unstable; urgency=low
+
+  * Fix for R15
+
+ -- Dmitriy Budashny <dmitriy.budashny@gmail.com>  Mon, 03 Sep 2012 17:52:28 +0300
+
+erlang-syslog (20120321-1) unstable; urgency=low
+
+  * Changed build format
+
+ -- Dmitriy Budashny <dmitriy.budashny@gmail.com>  Wed, 21 Mar 2012 11:46:04 +0200
+
+erlang-syslog (20120110-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Dmitriy Budashny <dmitriy.budashny@gmail.com>  Tue, 10 Jan 2012 13:12:50 +0200
